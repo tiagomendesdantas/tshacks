@@ -1,4 +1,4 @@
-#tshacks
+# tshacks
 
 This package creates Time Series Hacks to enhance time series problems, such as forecasting, scenario generation among others. List of methods:
 
