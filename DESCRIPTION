@@ -1,0 +1,19 @@
+Package: tshacks
+Type: Package
+Title: This packages brings to you time series hacks to enhance foreacast and other things
+Version: 0.1.0
+Author: Tiago Dantas
+Maintainer: Tiago Dantas <t.mendesdantas@gmail.com>
+Description: This package has several hacks related to time series
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    forecast,
+    parallel,
+    TSclust
+Imports:
+    forecast,
+    parallel,
+    TSclust
+RoxygenNote: 6.1.0
